@@ -10,9 +10,7 @@ Some facts about me:
 - I am part of the Department of Development and the Department of Administration of [MEH Studios Incorporated](https://www.roblox.com/groups/4928294/MEH-Studios-Inc).
 
 - I am a Senior Programmer, Senior Level Designer, Senior 3D Artist and a Senior Graphics Engineer at MEH Studios Entertainment, subsidiary of MEH Studios Incorporated.
-
-
-
+<br>
 
 Regarding my practical development skills:
 
