@@ -12,6 +12,8 @@ Some facts about me:
 - I am a Senior Programmer, Senior Level Designer, Senior 3D Artist and a Senior Graphics Engineer at MEH Studios Entertainment, subsidiary of MEH Studios Incorporated.
 
 
+
+
 Regarding my practical development skills:
 
 - I am a professional programmer in the [LUA](https://www.lua.org) programming language.
