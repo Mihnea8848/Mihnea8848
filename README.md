@@ -22,6 +22,7 @@ Regarding my practical development skills:
 
 - I have a very great understanding of [Roblox Development](https://create.roblox.com/docs).
 <br><br>
+
 Some of my hobbies include:
 
 - Composing and playing music, I can play multiple instruments, such as Piano and Drums.
@@ -32,3 +33,4 @@ Some of my hobbies include:
 
 - I watch anime. The "healthy" amount.
 
+- I like playing video games and trying to analyze how everything was achieved, from moving doors to elaborate cutscenes, the ins and outs.
