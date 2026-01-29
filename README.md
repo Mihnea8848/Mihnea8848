@@ -14,9 +14,9 @@ Some facts about me:
 
 Regarding my practical development skills:
 
-- I am a professional programmer in the [LUA](https://www.lua.org) programming language.
+- I am a professional programmer in [LUA](https://www.lua.org) and [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) programming language.
 
-- I can write professional code in the following programming languages: [C](https://en.wikipedia.org/wiki/C_(programming_language)), [C++](https://en.wikipedia.org/wiki/C%2B%2B), [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#:~:text=C%23%20(%2Fˌsiː%20ˈ,Paradigm)), [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
+- I can write professional code in the following programming languages: [C](https://en.wikipedia.org/wiki/C_(programming_language)), [C++](https://en.wikipedia.org/wiki/C%2B%2B), [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)#:~:text=C%23%20(%2Fˌsiː%20ˈ,Paradigm)), [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [Python](https://www.python.org/), as well as other Object-Oriented Programming languages.
 
 - I am a talented video game Level Designer, with countless projects in my portfolio, some of which are award-winning projects recognized at a global level.
 
